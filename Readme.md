@@ -1,0 +1,1 @@
+Olá, esse é meu primeiro projeto a ser subido no Git / Github. Não sei exatamente como funcionam essas ferramentas, mas estou aprendendo agora.
