@@ -46,3 +46,15 @@ button:hover{
     margin: 0 20px;
     font-size: 16pt;
 }
+
+/* responsividade*/
+
+@media screen and (min-width: 300px){
+    h1{
+        font-size: 25px;
+    }
+
+    h2{
+        font-size: 14px;
+    }
+}
